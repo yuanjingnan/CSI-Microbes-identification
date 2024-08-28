@@ -1,6 +1,6 @@
 [submodule "RNA-snakemake-rules"]
 	path = RNA-snakemake-rules
-	url = git@github.com:ruppinlab/RNA-snakemake-rules.git
+	url = https://github.com/yuanjingnan/RNA-snakemake-rules.git
 [submodule "pathogen-discovery-rules"]
 	path = pathogen-discovery-rules
-	url = git@github.com:ruppinlab/pathogen-discovery-rules.git
+	url = https://github.com/yuanjingnan/pathogen-discovery-rules.git
